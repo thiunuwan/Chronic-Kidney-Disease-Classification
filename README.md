@@ -1,2 +1,2 @@
-# Stellar-Classification
-Stellar Classification
+# Chronic Kidney Disease Classification
+
